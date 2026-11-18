@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/devopsbyraham/self-healing-app.git
+    repoURL: https://github.com/Momina1995/kubernetes_project_self_healing_project.git
     targetRevision: HEAD
     path: apps/backend
   destination:
